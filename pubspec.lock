@@ -64,15 +64,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "8.4.3"
-  camera_android:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: bdd1ccbb
-      resolved-ref: bdd1ccbbdc9f1bbccae6e5334474e6ddc9caa854
-      url: "https://github.com/farukprogrammer/camera_android.git"
-    source: git
-    version: "0.10.4"
   camera_avfoundation:
     dependency: "direct main"
     description:

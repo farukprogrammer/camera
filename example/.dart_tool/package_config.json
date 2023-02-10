@@ -92,12 +92,6 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "camera_android",
-      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/git/camera_android-bdd1ccbbdc9f1bbccae6e5334474e6ddc9caa854/",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
       "name": "camera_avfoundation",
       "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/camera_avfoundation-0.9.9",
       "packageUri": "lib/",
@@ -572,7 +566,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2023-02-10T03:38:09.507174Z",
+  "generated": "2023-02-10T10:23:36.612344Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }

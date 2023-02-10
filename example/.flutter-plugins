@@ -1,9 +1,8 @@
 # This is a generated file; do not edit or check into version control.
 camera=/Users/muhammad.rahman/GoTo/camera/
-camera_android=/Users/muhammad.rahman/.pub-cache/git/camera_android-2337964a8881260662f428746d034b8115d0c44e/
+camera_android=/Users/muhammad.rahman/.pub-cache/git/camera_android-ac69d26a994ccb8d16c950734184ef67e7cea4be/
 camera_avfoundation=/Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/camera_avfoundation-0.9.9/
-camera_web=/Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/camera_web-0.3.1/
-flutter_plugin_android_lifecycle=/Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+flutter_plugin_android_lifecycle=/Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/
 integration_test=/Users/muhammad.rahman/fvm/versions/3.3.9/packages/integration_test/
 path_provider=/Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.12/
 path_provider_android=/Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.22/

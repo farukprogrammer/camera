@@ -68,8 +68,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "2337964a"
-      resolved-ref: "2337964a8881260662f428746d034b8115d0c44e"
+      ref: ac69d26a
+      resolved-ref: ac69d26a994ccb8d16c950734184ef67e7cea4be
       url: "git@source.golabs.io:gopay-mobile/camera_android.git"
     source: git
     version: "0.10.4"
@@ -87,13 +87,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.3.2"
-  camera_web:
-    dependency: "direct main"
-    description:
-      name: camera_web
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.3.1"
   characters:
     dependency: transitive
     description:
@@ -201,7 +194,7 @@ packages:
       name: flutter_plugin_android_lifecycle
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.7"
+    version: "2.0.6"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -417,7 +410,7 @@ packages:
       name: video_player
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.5.1"
+    version: "2.2.19"
   video_player_android:
     dependency: transitive
     description:
@@ -438,7 +431,7 @@ packages:
       name: video_player_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.0.1"
+    version: "5.1.4"
   video_player_web:
     dependency: transitive
     description:

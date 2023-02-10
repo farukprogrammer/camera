@@ -93,7 +93,7 @@
     },
     {
       "name": "camera_android",
-      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/git/camera_android-2337964a8881260662f428746d034b8115d0c44e/",
+      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/git/camera_android-ac69d26a994ccb8d16c950734184ef67e7cea4be/",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -106,12 +106,6 @@
     {
       "name": "camera_platform_interface",
       "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/camera_platform_interface-2.3.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "camera_web",
-      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/camera_web-0.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -213,7 +207,7 @@
     },
     {
       "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7",
+      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -578,7 +572,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2023-02-10T00:34:19.799440Z",
+  "generated": "2023-02-10T01:39:54.673034Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }

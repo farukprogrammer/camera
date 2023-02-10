@@ -103,7 +103,7 @@
         <entry key="camera_android">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/git/camera_android-97a45ee6750e57e2b0521c49e21d5a520ae79ce7//lib" />
+              <option value="$USER_HOME$/.pub-cache/git/camera_android-2337964a8881260662f428746d034b8115d0c44e//lib" />
             </list>
           </value>
         </entry>
@@ -552,7 +552,7 @@
         <entry key="stream_transform">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.1.0/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0/lib" />
             </list>
           </value>
         </entry>
@@ -692,7 +692,7 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/git/camera_android-97a45ee6750e57e2b0521c49e21d5a520ae79ce7//lib" />
+      <root url="file://$USER_HOME$/.pub-cache/git/camera_android-2337964a8881260662f428746d034b8115d0c44e//lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-50.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/analyzer-5.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/archive-3.3.0/lib" />
@@ -764,7 +764,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/source_span-1.9.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.1.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/sync_http-0.3.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.1/lib" />

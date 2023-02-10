@@ -110,8 +110,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: master
-      resolved-ref: "97a45ee6750e57e2b0521c49e21d5a520ae79ce7"
+      ref: "2337964a"
+      resolved-ref: "2337964a8881260662f428746d034b8115d0c44e"
       url: "git@source.golabs.io:gopay-mobile/camera_android.git"
     source: git
     version: "0.10.4"
@@ -520,7 +520,7 @@ packages:
       name: stream_transform
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.0"
+    version: "2.0.0"
   string_scanner:
     dependency: transitive
     description:

@@ -57,7 +57,7 @@
     },
     {
       "name": "camera_android",
-      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/git/camera_android-97a45ee6750e57e2b0521c49e21d5a520ae79ce7/",
+      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/git/camera_android-2337964a8881260662f428746d034b8115d0c44e/",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -321,9 +321,9 @@
     },
     {
       "name": "stream_transform",
-      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.1.0",
+      "rootUri": "file:///Users/muhammad.rahman/.pub-cache/hosted/pub.dartlang.org/stream_transform-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.12"
     },
     {
       "name": "string_scanner",
@@ -422,7 +422,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2023-02-09T23:12:29.014247Z",
+  "generated": "2023-02-10T00:34:15.903549Z",
   "generator": "pub",
   "generatorVersion": "2.18.5"
 }

@@ -20,7 +20,7 @@ dependencies:
   camera_android:
     git:
       url: git@source.golabs.io:gopay-mobile/camera_android.git
-      ref: ac69d26a
+      ref: bdd1ccbb
   camera_avfoundation: 0.9.9
   camera_platform_interface: 2.3.2
   flutter:

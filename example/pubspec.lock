@@ -110,8 +110,8 @@ packages:
     dependency: transitive
     description:
       path: "."
-      ref: ac69d26a
-      resolved-ref: ac69d26a994ccb8d16c950734184ef67e7cea4be
+      ref: bdd1ccbb
+      resolved-ref: bdd1ccbbdc9f1bbccae6e5334474e6ddc9caa854
       url: "git@source.golabs.io:gopay-mobile/camera_android.git"
     source: git
     version: "0.10.4"

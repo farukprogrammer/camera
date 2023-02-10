@@ -103,7 +103,7 @@
         <entry key="camera_android">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/git/camera_android-ac69d26a994ccb8d16c950734184ef67e7cea4be//lib" />
+              <option value="$USER_HOME$/.pub-cache/git/camera_android-bdd1ccbbdc9f1bbccae6e5334474e6ddc9caa854//lib" />
             </list>
           </value>
         </entry>
@@ -687,7 +687,7 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/git/camera_android-ac69d26a994ccb8d16c950734184ef67e7cea4be//lib" />
+      <root url="file://$USER_HOME$/.pub-cache/git/camera_android-bdd1ccbbdc9f1bbccae6e5334474e6ddc9caa854//lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-50.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/analyzer-5.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/archive-3.3.0/lib" />
